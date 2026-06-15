@@ -152,8 +152,7 @@ dependencies {
 
     // UI Libraries
     implementation(libs.material)
-    implementation(libs.calligraphy)
-    implementation(libs.viewpump)
+    implementation(libs.toasty)
     implementation(libs.editorkit)
     implementation(libs.flexbox)
 
@@ -171,7 +170,7 @@ dependencies {
     implementation(libs.language.json)
 
     // Intent and Utility Libraries
-    implementation(libs.barcode.scanning)
+    implementation(libs.quickie.foss)
     implementation(libs.core)
 
     // AndroidX Lifecycle and Architecture Components
