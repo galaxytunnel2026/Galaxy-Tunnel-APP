@@ -4,4 +4,5 @@
     <string name="action_connect">Connect</string>
     <string name="select_server">Select Server</string>
     <string name="automatic">Automatic</string>
+    <string name="app_tile_name">Galaxy Tunnel Tile</string>
 </resources>
